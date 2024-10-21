@@ -1,5 +1,3 @@
-You're right! I missed updating the product list in the example. Here's the corrected README, taking into account the change where we are now using a list of products:
-
 # E-Commerce API - NestJS
 
 This is an example API for an e-commerce system developed with NestJS, following SOLID principles, design patterns, and development best practices. This documentation will guide you through the project structure, the principles and patterns used, and how to test the API with curl.
